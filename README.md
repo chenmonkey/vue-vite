@@ -7,14 +7,14 @@
 ```
 node -v
 ```
-![node版本](images/node-version.png)
+![node版本](https://raw.githubusercontent.com/chenmonkey/vue-vite/main/images/node-version.png)
 
 ### 2. 查看npm环境
 
 ```
 npm -v
 ```
-![npm版本](images/npm-version.png)
+![npm版本](https://raw.githubusercontent.com/chenmonkey/vue-vite/main/images/npm-version.png)
 
 ## 2.搭建项目
 
@@ -26,11 +26,11 @@ npm init vite@latest
 
 ### 2.输入项目名称---选择框架---选择js/ts语言等
 
-![项目创建](images/create-project.png)
+![项目创建](https://raw.githubusercontent.com/chenmonkey/vue-vite/main/images/create-project.png)
 
 ### 3.创建成功后查看目录
 
-![项目目录](images/project.png)
+![项目目录](https://raw.githubusercontent.com/chenmonkey/vue-vite/main/images/project.png)
 
 
 ## 3.运行项目
